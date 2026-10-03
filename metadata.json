@@ -1,0 +1,6 @@
+{
+  "name": "PayLite - UPI Offline",
+  "description": "Zero-data payments engine for India utilizing GSM *99# USSD telecommunication tunnels, on-device cryptoprocessors, and 123PAY voice backup.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
